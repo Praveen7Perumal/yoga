@@ -1,0 +1,457 @@
+.container
+{
+	height: 4000px;
+	width: 100%;
+	border: 1px solid;
+}
+.parent
+{
+	height: 50px;
+	width: 100%;
+	border: px solid;
+	display: flex;
+	justify-content: space-between;
+}
+.j1
+{
+	height: 50px;
+	width: 50%;
+	border: px solid;
+}
+.j1 img
+{
+	height: 40px;
+	width: 20%;
+	margin-left: 5%;
+	margin-top: 6px;
+}
+
+.j2
+{
+	height: 50px;
+	width: 50%;
+	border: px solid;
+}
+.j2 i
+{
+	margin-left: 90%;
+	margin-top: 3%;
+}
+.parent1
+{
+	height: 500px;
+	width: 100%;
+	border: 1px solid;
+	display: flex;
+	background-color: whitesmoke;
+}
+.j3
+{
+	height: 500px;
+	width: 50%;
+	border: px solid;
+}
+.j3 img
+{
+	height: 80px;
+	width: 20%;
+	margin-left: 40%;
+	margin-top: 14%;
+}
+.j3 h1
+{
+	font-size: 20px;
+	font-family: "Playwrite AR", cursive;
+	text-align: center;
+}
+.j3 h1 span
+{
+	color: #FFD700;
+}
+.j3 p
+{
+	font-size: 14px;
+	font-family: "Roboto Condensed", sans-serif;
+	text-align: center;
+}
+.j3 button
+{
+	height: 30px;
+	width: 25%;
+	border-radius: 10px;
+	margin-left: 38%;
+	letter-spacing: 1px;
+}
+.j4
+{
+	height: 500px;
+	width: 50%;
+	border: px solid;
+}
+.j4 img
+{
+	height: 400px;
+	width: 70%;
+	margin-left: 10%;
+}
+.parent2
+{
+	height: 500px;
+	width: 100%;
+	border: 1px solid;
+	background-image: url(p3.jfif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: dimgrey;
+	background-blend-mode: screen;
+
+}
+.parent2 h1
+{
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+	font-size: 20px;
+	letter-spacing: 5px;
+	margin-top: 10%;
+}
+.parent2 h4
+{
+	text-align: center;
+	font-family: "Roboto Condensed", sans-serif;
+	font-size: 10px;
+}
+.parent2 button
+{
+	height: 30px;
+	width: 15%;
+	font-family: "Roboto Condensed", sans-serif;
+	font-size: 15px;
+	margin-left: 42%;
+	border-radius: 10px;
+	transition: .5s ease;
+}
+.parent2 button:hover
+{
+	border-color: orange;
+	color: orange;
+	transform: scale(1.1);
+}
+
+.parent3
+{
+	height: 500px;
+	width: 100%;
+	border: px solid;
+	display: flex;
+	justify-content: space-between;
+	background-color: #DAA520;
+}
+.j5
+{
+	height: 280px;
+	width: 18%;
+	border: px solid;
+	background-color: white;
+	position: relative;
+	bottom: 10%;
+	align-items: center;
+}
+.j5 img
+{
+	height: 100px;
+	width: 80%;
+	border-radius: 50%;
+	margin-top: 5%;
+	margin-left: 10%;
+}
+.j5 h1
+{
+	font-size: 20px;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.j5 p
+{
+	font-size: 10px;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.j5 h4
+{
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+	font-size: 8px;
+	text-decoration: underline;
+
+}
+.parent4
+{
+	height: 80px;
+	width: 100%;
+	border: px solid;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.parent5
+{
+	height: 400px;
+	width: 100%;
+	border: px solid;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+.j6
+{
+	height: 250px;
+	width: 20%;
+	border: px solid;
+	border-radius: 20px;
+	background-image: url(p9.jfif);
+	background-color: black;
+	background-blend-mode: screen;
+	background-size: 100% 100%;
+}
+.j6 button
+{
+	height: 30px;
+	width: 50%;
+	margin-top: 55%;
+	margin-left: 25%;
+	border-radius: 10px;
+	font-size: 7px;
+	letter-spacing: 3px;
+}
+.j7 button
+{
+	height: 30px;
+	width: 55%;
+	margin-top: 55%;
+	margin-left: 25%;
+	border-radius: 10px;
+	font-size: 7px;
+	letter-spacing: 3px;
+}
+.j8 button
+{
+	height: 30px;
+	width: 50%;
+	margin-top: 55%;
+	margin-left: 25%;
+	border-radius: 10px;
+	font-size: 7px;
+	letter-spacing: 3px;
+}
+.j9 button
+{
+	height: 30px;
+	width: 50%;
+	margin-top: 55%;
+	margin-left: 25%;
+	border-radius: 10px;
+	font-size: 7px;
+	letter-spacing: 3px;
+}
+.j7
+{
+	height: 250px;
+	width: 20%;
+	border: px solid;
+	border-radius: 20px;
+	background-image: url(p10.jfif);
+	background-size: 100% 100%;
+	background-color: black;
+	background-blend-mode: screen;
+}
+.j8
+{
+	height: 250px;
+	width: 20%;
+	border: px solid;
+	border-radius: 20px;
+	background-image: url(p11.jfif);
+	background-size: 100% 100%;
+}
+.j9
+{
+	height: 250px;
+	width: 20%;
+	border: px solid;
+	border-radius: 20px;
+	background-image: url(p8.jfif);
+	background-size: 100% 100%;
+}
+
+.parent6
+{
+	height: 80px;
+	width: 100%;
+	border: px solid;
+}
+.parent6 h1
+{
+	font-size: 20px;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.parent6 p
+{
+	font-size: 10px;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.j10
+{
+	height: 1000px;
+	width: 100%;
+	border: px solid;
+	display: grid;
+	grid-template-columns: auto auto;
+}
+.j11 h1
+{
+	font-size: 20px;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.j11 h2
+{
+	font-size: 10px;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.j11 p
+{
+	font-size: 10px;
+	text-align: center;
+	font-family: "Playwrite AR", cursive;
+}
+.j11 font
+{
+	font-size: 10px;
+	margin-left: 40%;
+	font-family: "Playwrite AR", cursive;
+}
+.j11
+{
+	height: 250px;
+	width: 100%;
+	border: px solid;
+	margin-top: 10%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:797px)
+{
+	.parent1
+	{
+		flex-direction: column;
+		align-items: center;
+		height: 1000px;
+	}
+	.j3 button
+	{
+		font-size: 10px;
+	}
+	.j3
+	{
+		width: 100%;
+	}
+	.j4
+	{
+		width: 100%;
+	}
+}
+@media(max-width: 729px)
+{
+	.parent3
+	{
+		flex-direction: column;
+		flex-wrap: wrap;
+		align-items: center;
+		height: 1000px;
+	}
+	.j5
+	{
+		width: 40%;
+		margin-top: 4%;
+
+	}
+	.parent2 button
+	{
+		font-size: 10px;
+	}
+}
+@media(max-width: 489px)
+{
+	.j5 p
+	{
+		font-size: 7px;
+	}
+}
+@media(max-width: 851px)
+{
+	.parent5
+	{
+		flex-direction: column;
+		flex-wrap: wrap;
+		align-items: center;
+		height: 700px;
+	}
+	.j6
+	{
+		width: 30%;
+
+	}
+	.j7
+	{
+		width: 30%;
+	}
+	.j8
+	{
+		width: 30%;
+
+	}
+	.j9
+	{
+		width: 30%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
